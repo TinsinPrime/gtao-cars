@@ -1,0 +1,37 @@
+Model: fmj
+Plate Style: 1
+Plate Text:  J0K3R  
+Primary Colour: 35
+Secondary Colour: 111
+Pearl Colour: 25
+Wheel Colour: 156
+Wheel Type: 1
+Spoiler: 3
+Front Bumper: 3
+Roof: 4
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 36
+Livery: -1
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

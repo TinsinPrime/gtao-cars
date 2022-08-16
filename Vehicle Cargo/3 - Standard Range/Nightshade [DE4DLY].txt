@@ -1,0 +1,41 @@
+Model: nightshade
+Plate Style: 3
+Plate Text:  DE4DLY 
+Primary Colour: 147
+Secondary Colour: 119
+Pearl Colour: 34
+Wheel Colour: 35
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 1
+Chassis: 1
+Grille: 3
+Hood: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 2
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 23
+Livery: -1
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

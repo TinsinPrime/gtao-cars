@@ -1,0 +1,50 @@
+Model: banshee2
+Plate Style: 0
+Plate Text: DR1FT3R 
+Primary Colour: 69
+Secondary Colour: 96
+Pearl Colour: 107
+Wheel Colour: 154
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 2
+Sideskirt: 4
+Exhaust: 5
+Grille: 0
+Hood: 3
+Fender: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5, Custom
+Ornaments: 18
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Struts: 0
+Livery: 0
+Tyre Smoke Colour: #b48261
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 1: Yes
+Extra 2: No
